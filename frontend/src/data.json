@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pavani",
+      "course": "React",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Tabitha",
+      "course": "Python",
+      "skills": [
+        "python",
+        "FastApi",
+        "Postman"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Harsha",
+      "course": "AWS",
+      "skills": [
+        "Database",
+        "cloud computing",
+        "lamda"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "komali",
+      "course": "Java",
+      "skills": [
+        "java",
+        "oops",
+        "DS"
+      ]
+    },
+    {
+      "name": "pavani",
+      "course": "sql",
+      "skills": [
+        "mysql"
+      ],
+      "id": 5
+    },
+    {
+      "name": "akhila",
+      "course": "SQL",
+      "skills": [
+        "SQL"
+      ],
+      "id": 6
+    },
+    {
+      "name": "lahari",
+      "course": "data analyst",
+      "skills": [
+        "powerBI"
+      ],
+      "id": 7
+    },
+    {
+      "name": "vennela",
+      "course": "java",
+      "skills": [
+        "corejava"
+      ],
+      "id": 8
+    },
+    {
+      "name": "srihitha",
+      "course": "python",
+      "skills": [
+        "corepython"
+      ],
+      "id": 9
+    }
+  ]
+}
