@@ -52,8 +52,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import "./App.css";
-
-const API = "http://localhost:3001/users";
+const API = "http://10.20.32.13:8000";
 
 function App() {
   const [data, setData] = useState([]);
